@@ -10,8 +10,7 @@ An advanced real-time chat application built with AI integration, enabling users
 ✅ Secure authentication & authorization (JWT)  
 ✅ Global state management with Zustand  
 ✅ Beautiful UI with TailwindCSS & Daisy UI  
-✅ Optimized error handling on client & server  
-✅ Free deployment like a pro!  
+✅ Optimized error handling on client & server   
 
 ## 🛠 Tech Stack
 
